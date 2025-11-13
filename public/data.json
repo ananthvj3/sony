@@ -1,0 +1,201 @@
+{
+  "sony": [
+    {
+      "id": 1,
+      "name": "Sony ULT WEAR",
+      "model": "WH-ULT900N",
+      "description": "Premium over-ear wireless headphone with deep bass and active noise cancellation.",
+      "inStock": true,
+      "stockQty": 25,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762237855/sony1_1_alj3f1.png" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322706/sony1.4_lswami.jpg" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "imageColor":[
+        {"img":"https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"},
+         {"img":"https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 24990,
+      "color": ["Mint Green", "Black", "Off White"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 2,
+      "name": "Sony WH-1000XM5",
+      "model": "WH-1000XM5",
+      "description": "Flagship noise-cancelling wireless headphones with LDAC and multi-device pairing.",
+      "inStock": true,
+      "stockQty": 40,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762238346/sony2.1.1_foiko5.png" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762323423/sony2.2_s1evte.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762323423/sony2.4_wb27g3.jpg"}
+      ],
+      "price": 18900,
+      "color": ["Black", "Silver"],
+      "rating": "★★★★★"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-CH720N",
+      "model": "WH-CH720N",
+      "description": "Mid-range wireless headphones with active noise cancellation and 35-hour battery life.",
+      "inStock": true,
+      "stockQty": 50,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762230260/sony3_tb0pbi.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 8799,
+      "color": ["Black", "Blue", "White"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-CH520",
+      "model": "WH-CH520",
+      "description": "Affordable on-ear wireless headphones with mic and long battery life.",
+      "inStock": true,
+      "stockQty": 70,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762231797/sony1.4_qvrp2d.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 3490,
+      "color": ["Black", "Blue", "Beige", "White"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-XB910N",
+      "model": "WH-XB910N",
+      "description": "Extra Bass series wireless over-ear headphones with ANC and 30-hour battery.",
+      "inStock": true,
+      "stockQty": 30,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762317747/sony1.5_mazfe8.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 14990,
+      "color": ["Black", "Blue"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-XB700",
+      "model": "WH-XB700",
+      "description": "Extra Bass Bluetooth headphones with soft padding and voice assistant support.",
+      "inStock": true,
+      "stockQty": 45,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762318403/sony1.6_mdt2aq.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 7990,
+      "color": ["Black", "Blue"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 7,
+      "name": "Sony MDR-ZX310AP",
+      "model": "MDR-ZX310AP",
+      "description": "Wired lightweight on-ear headphones with mic and tangle-free cable.",
+      "inStock": true,
+      "stockQty": 100,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762319551/sony1.7_gwbojo.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 999,
+      "color": ["Black", "Blue", "Red"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 8,
+      "name": "Sony WH-H910N",
+      "model": "WH-H910N",
+      "description": "Wireless noise-cancelling headphones with dual noise sensor technology and touch controls.",
+      "inStock": true,
+      "stockQty": 60,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1763008873/sony1.8.4_niqkoz.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 17990,
+      "color": ["Black", "Blue", "Red"],
+      "rating": "★★★★★"
+    },
+    {
+      "id": 9,
+      "name": "Sony WH-CH510",
+      "model": "WH-CH510",
+      "description": "Wireless on-ear headphones with 35-hour battery life and USB-C fast charging.",
+      "inStock": true,
+      "stockQty": 95,
+      "images": [
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1763010633/sony1.9.2_rdfpiv.png" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 2990,
+      "color": ["Black", "White", "Blue"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 10,
+      "name": "Sony WH-H800",
+      "model": "WH-H800",
+      "description": "Hi-Res wireless on-ear headphones with DSEE HX sound enhancement.",
+      "inStock": true,
+      "stockQty": 55,
+      "images": [
+        { "img": "https://m.media-amazon.com/images/I/61+zduMZqDL._SL1500_.jpg" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 14990,
+      "color": ["Black", "Orange", "Green"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-CH710N",
+      "model": "WH-CH710N",
+      "description": "Wireless noise-cancelling over-ear headphones with 35-hour battery life.",
+      "inStock": true,
+      "stockQty": 75,
+      "images": [
+        { "img": "https://m.media-amazon.com/images/I/61+u1dZCV-L._SL1500_.jpg" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 7990,
+      "color": ["Black", "White", "Blue"],
+      "rating": "★★★★☆"
+    },
+    {
+      "id": 12,
+      "name": "Sony WH-XB920N",
+      "model": "WH-XB920N",
+      "description": "Extra Bass wireless headphones with dual noise-cancelling and 30-hour battery life.",
+      "inStock": true,
+      "stockQty": 65,
+      "images": [
+        { "img": "https://m.media-amazon.com/images/I/61+u1dZCV-L._SL1500_.jpg" },
+         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
+      ],
+      "price": 12990,
+      "color": ["Black", "White", "Green"],
+      "rating": "★★★★☆"
+    }
+  ]
+}

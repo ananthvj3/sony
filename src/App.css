@@ -1,0 +1,70 @@
+ul{
+  margin: 0;
+}
+h2{
+  margin:0
+}
+header{
+  z-index: 1000;
+  background: #000;
+}
+header nav ul li{
+    margin: 0 !important;
+}
+header nav ul li a{
+    text-decoration: none;
+    color:white;
+}
+.active-menu {
+  color: #0d6efd !important; /* Bootstrap blue */
+  font-weight: 600;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #0dcaf0 !important;
+}
+
+.perspective-container {
+  perspective: 800px; 
+}
+.rotate3d-bg {
+  transform-style: preserve-3d;
+  transition: transform 1.5s ease;
+}
+
+
+.rotate3d-bg:hover {
+  transform: rotateY(180deg) rotateX(10deg);
+}
+
+.slide{
+  display:grid;
+  place-items: center;
+}
+
+.details-content{
+  margin-top: 50px;
+}
+.cart table{
+  border:0px solid white;
+}
+.checkout button{
+  z-index: 1000;
+}
+.card .bgimage{
+  opacity:0.9;
+}
+.container .bgimage{
+  opacity:0.9;
+}
+.checkout{
+  z-index: 1000;
+}
