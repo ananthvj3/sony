@@ -6,7 +6,7 @@ h2{
 }
 header{
   z-index: 1000;
-  background: #000;
+  background:rgb(30, 30, 30);
 }
 header nav ul li{
     margin: 0 !important;
@@ -67,4 +67,23 @@ header nav ul li a{
 }
 .checkout{
   z-index: 1000;
+}
+.sign-in{
+  width:75px;
+  height:75px;
+  
+  border-radius: 100%;
+  box-shadow: 0px 0px 0px 0px grey;
+}
+.google button{
+  padding:5px 30px
+}
+.email{
+  padding:20px;
+}
+.email input{
+  width:100%;
+  padding:8px 20px; 
+  outline: none;
+  border:1px solid grey;
 }

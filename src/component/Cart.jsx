@@ -1,11 +1,14 @@
 import React, { useContext, useMemo } from "react";
+
 import GlobalContext from "../GlobalContext";
 import image1 from '../images/h-phone2.jpg'
 
 import "../App.css";
+import { useNavigate } from "react-router-dom";
 
 const Cart = () => {
   const { cart, setCart } = useContext(GlobalContext);
+  const navigate=useNavigate();
 
   const handleIncrease = (name) => {
     setCart((prev) =>
@@ -35,6 +38,11 @@ const Cart = () => {
       0
     );
   }, [cart]);
+
+  const handleClick=()=>{
+    navigate("/checkout")
+
+  }
 
   return (
     <section className="container ">
@@ -107,7 +115,7 @@ const Cart = () => {
   <h4 className="fw-bold text-danger">
     Total Price: <span className="text-success">₹{totalPrice.toFixed(2)}</span>
   </h4>
-  <button className="btn btn-success mt-3 px-5 py-2 fw-semibold shadow-sm">
+  <button onClick={()=> handleClick()} className="btn btn-success mt-3 px-5 py-2 fw-semibold shadow-sm">
     Proceed to Checkout
   </button>
 </div>

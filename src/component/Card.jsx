@@ -17,6 +17,7 @@ const Card = ({ productData }) => {
       const existCart=prev.find(p=> p.model === item.model);
 
       if(existCart){
+        alert("This product already added your Cart...!");
         return prev;
       }
       else{

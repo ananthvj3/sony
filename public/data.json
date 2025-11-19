@@ -157,7 +157,7 @@
       "inStock": true,
       "stockQty": 55,
       "images": [
-        { "img": "https://m.media-amazon.com/images/I/61+zduMZqDL._SL1500_.jpg" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1763529957/sony1.10_koliax.png" },
          { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
       ],
@@ -173,7 +173,7 @@
       "inStock": true,
       "stockQty": 75,
       "images": [
-        { "img": "https://m.media-amazon.com/images/I/61+u1dZCV-L._SL1500_.jpg" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1763530129/sony1.11_w2zvjs.png" },
          { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
       ],
@@ -189,7 +189,7 @@
       "inStock": true,
       "stockQty": 65,
       "images": [
-        { "img": "https://m.media-amazon.com/images/I/61+u1dZCV-L._SL1500_.jpg" },
+        { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762231797/sony1.4_qvrp2d.png" },
          { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.3_d9icnb.jpg"},
         { "img": "https://res.cloudinary.com/dkvncu6jk/image/upload/v1762322705/sony1.2_en0gpc.jpg"}
       ],

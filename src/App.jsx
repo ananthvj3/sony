@@ -8,6 +8,7 @@ import Card from './component/Card'
 import Details from './component/Details'
 import Cart from './component/Cart'
 import Login from './pages/Login'
+import Checkout from './component/Checkout'
 
 
 function App() {
@@ -41,6 +42,10 @@ function App() {
         {
           path:"/login",
           element:<Login/>
+        },
+        {
+          path:"/checkout",
+          element:<Checkout/>
         },
       ]
 

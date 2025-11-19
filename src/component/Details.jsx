@@ -13,6 +13,7 @@ const Details = () => {
 
     const location=useLocation()
     const productData=location.state || [];
+    
   return (
     <>
     
